@@ -1,3 +1,3 @@
 # testrepo
 
-A repo for testing... and demonstrating!
+This repo is used to demonstrate git functions.
